@@ -6,7 +6,7 @@
 To complete this quickstart:
 
 * Install Git
-* Install PHP
+* Install nodejs runtime
 
 
 # Steps:
