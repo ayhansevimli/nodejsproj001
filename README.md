@@ -1,7 +1,7 @@
 # nodejsproj001
 # Node JS web app
 
-# Prerequisites
+# Prerequisites:
 
 To complete this quickstart:
 
